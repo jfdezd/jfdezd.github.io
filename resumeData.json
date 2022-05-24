@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Javier Fernández",
+    "occupation": "Product/Project Manager",
+    "description": "Computers engineer with 14 years of experience in technology consulting.\nConcerned about looking for ambitious and at the same time realistic business strategies, approaching them in a methodical, organized and systemic way. \nI look for original ideas that promote innovation and change and I try to direct the efforts in the integral development of the team. \n I enjoy researching new technologies that add value to my projects, clients and company.",
+    "image": "avatar.png",
+    "bio": "I try to direct the efforts in the integral development of the team. I enjoy researching new technologies that add value to my projects, clients and company.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "javierfernandezdominguez@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "",
+      "city": "Madrid",
+      "state": "Madrid",
+      "zip": ""
+    },
+    "website": "https://jfdezd.github.io/",
+    "resumedownload": "/",
+    "social": [
+            {
+        "name": "twitter",
+        "url": "http://twitter.com/jfdezd",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jfdezd/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jfdezd",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I try to direct the efforts in the integral development of the team. I enjoy researching new technologies that add value to my projects, clients and company.\n Now focused on Web 3.0 and VR technologies. Recently certified aT Unity Essentials Pathway and finished a version of my CV using alchemy and rinkeby. Actually participating at Launch Pad Builder Track // Horizon Worlds Boot Camp 2022. ",
+    "education": [
+      {
+        "school": "Francisco de Vitoria University, Madrid",
+        "degree": "Senior Computer Engineer",
+        "graduated": "September 2009",
+        "description": "Madrid, Spain"
+      },
+      {
+        "school": "University of Chile",
+        "degree": "Diploma in Computer project management",
+        "graduated": "December 2014",
+        "description": "Santiago de Chile"
+      },
+      {
+        "school": "University of Chile",
+        "degree": "Diploma in Leadership and teamwork",
+        "graduated": "December 2015",
+        "description": "Santiago de Chile"
+      }
+    ],
+    "work": [
+      {
+        "company": "Santander Group, Aquanima",
+        "title": "Global IT & Telecom Category Manager",
+        "years": "June 2021 - Present",
+        "description": "Responsible for global technology and telecommunications procurement operations. Focused on Global Top Vendors with different negotiation and contracting strategies."
+      },
+      {
+        "company": "NTT Data, Spain",
+        "title": "Digital Product Owner",
+        "years": "July 2019 - June 2021",
+        "description": "Datalaia allows the users to observe, capture and organize the data of the Public Administrations and citizens so that they offer value, very truthful information for decision-making and / or its integration into management systems with a detailed and efficient vision."
+      },
+      {
+        "company": "NTT Data, Spain",
+        "title": "Data & Analytic Manager for Public Sector",
+        "years": "July 2019 - June 2021",
+        "description": "Responsible for a specialized team of around twenty people with an annual revenue of more than one million euros. Multidisciplinary team with data engineers, scientists, big data and cloud architects and specialists in visualization tools. DGI consolidates the capacities for the Public Sector in emerging technologies and builds a specific value offer that serves as a differential commercial element and also as a framework for the rest of the industries"
+      },
+      {
+        "company": "NTT Data, Chile",
+        "title": "Project Manager",
+        "years": "January 2013 - June 2019",
+        "description": "Responsible for different public sector projects. Focused primarily on the Integrated Foreign Trade System (SICEX). Design and development of the complete solution, with technological updates, architecture migration, Datacenter migration, definition of new modules including Port Community Systems (PCS)."
+      },
+      {
+        "company": "NTT Data, Spain",
+        "title": "Software Developer",
+        "years": "July 2009 - January 2013",
+        "description": "Different roles for the Ministry of Science and innovation in several projects. Starting as a developer and managing teams of 6-8 people."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Cloud & Infrastructure",
+        "level": "60%"
+      },
+      {
+        "name": "Project or Product Management",
+        "level": "75%"
+      },
+      {
+        "name": "Data & Analytic Technologies",
+        "level": "60%"
+      },
+      {
+        "name": "Middleware Solutions",
+        "level": "70%"
+      },
+      {
+        "name": "Emerging Technologies (Blockchain, Web 3.0, VR)",
+        "level": "60%"
+      },
+      {
+        "name": "Business Strategy",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Datalaia",
+        "category": "An open data platform collecting from different sources, with Artificial Intelligence capabilities that integrate and process data of interest to the public administration and citizens so they can be visualized and interpreted for common good and for evidence-based decision-making and creating a data-driven culture.",
+        "image": "Imagen1.png",
+        "url": "https://www.datalaia.com"
+      },
+      {
+        "title": "Sicex Chile",
+        "category": "Chilean Trade National Single Window",
+        "image": "logo_sicex.png",
+        "url": "https://www.sicexchile.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
